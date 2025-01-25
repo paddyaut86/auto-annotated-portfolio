@@ -108,7 +108,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: The Section Title
+    title: 'Hundeschule Graz, Hundetrainer Ausbildung'
     text: >+
       ### Hundetraining in Graz: Effektive Methoden für ein harmonisches
       Zusammenleben
