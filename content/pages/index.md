@@ -45,7 +45,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: The Section Title
+    title: CBD für Hunde und Menschen
     text: >+
       ### CBD-Öl für Hunde
 
