@@ -14,10 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: CBD Blüten und CBD Öl für Hunde
-    subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+    subtitle: "CBD-Blüten zum Rauchen für Menschen\_CBD-Blüten, die aus der Cannabispflanze gewonnen werden, erfreuen sich bei Menschen zunehmender Beliebtheit. Sie enthalten Cannabidiol (CBD), ein nicht psychoaktives Cannabinoid, das für seine beruhigenden und entzündungshemmenden Eigenschaften bekannt ist. Beim Rauchen der Blüten wird CBD schnell über die Lunge aufgenommen, was eine schnelle Wirkung ermöglicht. Nutzer berichten häufig von Entspannung, Stressabbau und Linderung von leichten Schmerzen.Im Gegensatz zu THC-haltigem Cannabis haben CBD-Blüten keinen berauschenden Effekt und sind in vielen Ländern legal, sofern der THC-Gehalt unter einem festgelegten Grenzwert liegt. Der Geschmack variiert je nach Sorte, von fruchtig bis erdig. Es ist wichtig, qualitativ hochwertige und schadstofffreie Blüten von vertrauenswürdigen Anbietern zu wählen. Trotzdem sollte der Konsum mit Bedacht erfolgen, da Rauchen gesundheitliche Risiken birgt. Alternativen wie Vaporizer können eine schonendere Option sein."
     styles:
       self:
         height: auto
